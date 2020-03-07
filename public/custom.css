@@ -1,0 +1,75 @@
+
+.profile
+{
+
+    background: #1d1d1d;
+
+
+}
+.skills
+{
+    background-color: #1d1d1d;
+}
+
+.social
+{
+    list-style: none;
+}
+
+.social li
+{
+    display: inline;
+    margin: 50px 25px;
+}
+.social li a
+{
+    font-size: 1.5em;
+}
+.profession
+{
+    font-weight: 300;  
+}
+
+.user_name
+{
+    font-weight: 200;
+}
+.desc
+{
+    font-weight: 100;
+}
+
+.social-link
+{
+    list-style: none;
+}
+.social-link li
+{
+    display: inline;
+   
+}
+
+.social-link li a
+{
+    margin: 20px 12px;
+}
+.customnav
+{
+    background-color: transparent;
+}
+
+.hoveredcard
+{
+    transition: all .5s ease-in-out;
+}
+
+.hoveredcard:hover
+{
+    transform: scale(1.1);
+}
+
+.projectbox
+{
+    width: 1390px;
+    height: 600px;
+}
